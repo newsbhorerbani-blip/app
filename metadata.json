@@ -1,0 +1,6 @@
+{
+  "name": "To-Let Gopalganj",
+  "description": "Gopalganj house, flat, and bachelor mess rental portal with used goods marketplace, rental requests, and in-app chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
